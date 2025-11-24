@@ -22,6 +22,7 @@ Kita akan membangun aplikasi catatan sederhana. Fitur utamanya adalah singkronis
 ![3](https://github.com/user-attachments/assets/cb6e7a83-43f9-4d45-99c5-1550d13e555d)
 
 7.  Update Feature: Tambahkan fitur edit. Ketika ListTile ditekan (onTap), munculkan formulir yang sudah terisi data lama, dan update data tersebut di Firebase menggunakan perintah .update().
+
 Berikut hasilnya menambahkan catatan baru
 
 ![4](https://github.com/user-attachments/assets/e240cb95-0a17-495d-a00b-31842a51197c)
